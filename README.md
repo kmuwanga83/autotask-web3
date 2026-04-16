@@ -1,8 +1,3 @@
-To make this professional and "GitHub-ready," I have added Markdown icons, clear hierarchy, and placeholders for your demo links. You can copy the entire block below and paste it directly into your `README.md` file.
-
-***
-
-```markdown
 # AutoTask Web3 🚀
 
 **AI-powered decentralized microtask platform built on Solana.**
