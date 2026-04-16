@@ -19,7 +19,7 @@ Autotask Web3 is a decentralized application (dApp) designed to automate and man
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/autotask-web3.git
+git clone [https://github.com/YOUR_USERNAME/autotask-web3.git](https://github.com/YOUR_USERNAME/autotask-web3.git)
 cd autotask-web3/app
 npm install
 npm run dev
